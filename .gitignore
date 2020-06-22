@@ -249,5 +249,6 @@ dist
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
-
+/static
+/media
 # End of https://www.toptal.com/developers/gitignore/api/django,node
